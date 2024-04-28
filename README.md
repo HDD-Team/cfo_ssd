@@ -6,6 +6,8 @@
 Для установки зависимостей:
 `pip install -r req.txt`
 
+Использовалась модель  [***mistral-7b-instruct-v0.2.Q4_K_S***](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_S.gguf)
+
 # Реализованая функциональность:
 
 - [Телеграм-бот](https://t.me/cfo_gek_sup_bot)
